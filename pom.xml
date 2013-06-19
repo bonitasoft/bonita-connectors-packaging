@@ -412,7 +412,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:svn:https://rd.svn.bonitasoft.org/connectors-6/bonita-connectors-package/trunk/</developerConnection>
+        <developerConnection>scm:svn:https://rd.svn.bonitasoft.org/connectors-6/bonita-connectors-package/branches/bonita-connectors-package-6.0.x/</developerConnection>
     </scm>
 
 

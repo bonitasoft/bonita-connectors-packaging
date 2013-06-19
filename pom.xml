@@ -4,7 +4,7 @@
     <groupId>org.bonitasoft.connectors</groupId>
     <artifactId>bonita-connectors-package</artifactId>
     <packaging>pom</packaging>
-    <version>6.0.1-rc-01</version>
+    <version>6.0.1-SNAPSHOT</version>
 
     <properties>
         <bonita.connector.alfresco.version>6.0.0</bonita.connector.alfresco.version>
@@ -403,7 +403,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.4</version>
                 <configuration>
-                    <tagBase>https://svn.bonitasoft.org/bonita-connectors-6/tags/bonita-connectors-package</tagBase>
+                    <tagBase>https://rd.svn.bonitasoft.org/connectors-6/bonita-connectors-package/tags/bonita-connectors-package/</tagBase>
                     <preparationGoals>clean install</preparationGoals>
                     <goals>deploy</goals>
                 </configuration>
@@ -412,7 +412,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:svn:https://svn.bonitasoft.org/bonita-connectors-6/tags/bonita-connectors-package/bonita-connectors-package-6.0.1-rc-01</developerConnection>
+        <developerConnection>scm:svn:https://rd.svn.bonitasoft.org/connectors-6/bonita-connectors-package/trunk/</developerConnection>
     </scm>
 
 

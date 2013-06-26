@@ -26,6 +26,7 @@
             <id>tests</id>
             <modules>
                 <module>bonita-connectors-integration-tests</module>
+                <module>bonita-connectors-tomcat-integration-tests</module>
             </modules>
         </profile>
     </profiles>

@@ -19,6 +19,7 @@
         <bonita.connector.sugarcrm.version>6.0.0</bonita.connector.sugarcrm.version>
         <bonita.connector.talend.version>6.0.0</bonita.connector.talend.version>
         <bonita.connector.webservice.version>6.0.0</bonita.connector.webservice.version>
+        <bonita.connector.twitter.version>6.1.0-SNAPSHOT</bonita.connector.twitter.version>
     </properties>
 
     <profiles>
@@ -404,6 +405,20 @@
             <classifier>connector</classifier>
         </dependency>
 
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>bonita-connector-twitter-direct-impl</artifactId>
+            <version>${bonita.connector.twitter.version}</version>
+            <type>zip</type>
+            <classifier>connector</classifier>
+        </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>bonita-connector-twitter-update-impl</artifactId>
+            <version>${bonita.connector.twitter.version}</version>
+            <type>zip</type>
+            <classifier>connector</classifier>
+        </dependency>
     </dependencies>
 
     <build>

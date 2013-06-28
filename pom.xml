@@ -7,13 +7,13 @@
 
     <packaging>pom</packaging>
     <properties>
-        <bonita.connector.alfresco.version>6.1.0-rc-02</bonita.connector.alfresco.version>
+        <bonita.connector.alfresco.version>6.1.0-rc-03</bonita.connector.alfresco.version>
         <bonita.connector.database.version>6.1.0-rc-01</bonita.connector.database.version>
         <bonita.connector.cmis.version>6.1.0-beta-02</bonita.connector.cmis.version>
         <bonita.connector.email.version>6.1.0-rc-01</bonita.connector.email.version>
         <bonita.connector.googlecalendar.version>6.1.0-rc-01</bonita.connector.googlecalendar.version>
-        <bonita.connector.jasper.version>6.1.0-rc-01</bonita.connector.jasper.version>
-        <bonita.connector.salesforce.version>6.1.0-rc-01</bonita.connector.salesforce.version>
+        <bonita.connector.jasper.version>6.1.0-rc-02</bonita.connector.jasper.version>
+        <bonita.connector.salesforce.version>6.1.0-rc-02</bonita.connector.salesforce.version>
         <bonita.connector.sap.version>6.1.0-rc-01</bonita.connector.sap.version>
         <bonita.connector.scripting.version>6.1.0-rc-01</bonita.connector.scripting.version>
         <bonita.connector.sugarcrm.version>6.1.0-rc-01</bonita.connector.sugarcrm.version>

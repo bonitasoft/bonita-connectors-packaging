@@ -13,7 +13,7 @@
         <bonita.connector.googlecalendar.version>6.0.1</bonita.connector.googlecalendar.version>
         <bonita.connector.jasper.version>6.0.1</bonita.connector.jasper.version>
         <bonita.connector.salesforce.version>6.0.1</bonita.connector.salesforce.version>
-        <bonita.connector.sap.version>6.0.1</bonita.connector.sap.version>
+        <bonita.connector.sap.version>6.0.2-rc-01</bonita.connector.sap.version>
         <bonita.connector.scripting.version>6.0.1</bonita.connector.scripting.version>
         <bonita.connector.sugarcrm.version>6.0.1</bonita.connector.sugarcrm.version>
         <bonita.connector.talend.version>6.0.1</bonita.connector.talend.version>

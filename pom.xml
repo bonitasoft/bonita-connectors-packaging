@@ -399,12 +399,39 @@
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>
+            <artifactId>bonita-connector-cmis-deletedocument-impl</artifactId>
+            <version>${bonita.connector.cmis.version}</version>
+            <type>zip</type>
+            <classifier>connector</classifier>
+        </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>bonita-connector-cmis-deletefolder-impl</artifactId>
+            <version>${bonita.connector.cmis.version}</version>
+            <type>zip</type>
+            <classifier>connector</classifier>
+        </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>bonita-connector-cmis-deleteversionofdocument-impl</artifactId>
+            <version>${bonita.connector.cmis.version}</version>
+            <type>zip</type>
+            <classifier>connector</classifier>
+        </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
             <artifactId>bonita-connector-cmis-uploadnewdocument-impl</artifactId>
             <version>${bonita.connector.cmis.version}</version>
             <type>zip</type>
             <classifier>connector</classifier>
         </dependency>
-
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>bonita-connector-cmis-uploadnewversionofdocument-impl</artifactId>
+            <version>${bonita.connector.cmis.version}</version>
+            <type>zip</type>
+            <classifier>connector</classifier>
+        </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>bonita-connector-twitter-direct-impl</artifactId>

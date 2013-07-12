@@ -19,7 +19,7 @@
         <bonita.connector.sugarcrm.version>6.1.0-rc-01</bonita.connector.sugarcrm.version>
         <bonita.connector.talend.version>6.1.0-rc-01</bonita.connector.talend.version>
         <bonita.connector.webservice.version>6.1.0-rc-01</bonita.connector.webservice.version>
-        <bonita.connector.twitter.version>6.1.0-rc-01</bonita.connector.twitter.version>
+        <bonita.connector.twitter.version>6.1.0-rc-02</bonita.connector.twitter.version>
     </properties>
 
     <profiles>

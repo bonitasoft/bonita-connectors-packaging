@@ -471,16 +471,14 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.4</version>
                 <configuration>
-                    <tagBase>https://rd.svn.bonitasoft.org/connectors-6/bonita-connectors-package/tags/</tagBase>
-                    <preparationGoals>clean install</preparationGoals>
-                    <goals>deploy</goals>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
         </plugins>
     </build>
 
     <scm>
-        <developerConnection>scm:svn:https://rd.svn.bonitasoft.org/connectors-6/bonita-connectors-package/trunk/</developerConnection>
+        <developerConnection>scm:git:git@github.com:bonitasoft/bonita-connectors-packaging.git</developerConnection>
     </scm>
 
 

@@ -8,7 +8,7 @@
     <packaging>pom</packaging>
     <properties>
         <bonita.connector.alfresco.version>6.1.0-rc-04</bonita.connector.alfresco.version>
-        <bonita.connector.database.version>6.1.0-rc-03</bonita.connector.database.version>
+        <bonita.connector.database.version>6.1.0-rc-04</bonita.connector.database.version>
         <bonita.connector.cmis.version>6.1.0-rc-02</bonita.connector.cmis.version>
         <bonita.connector.email.version>6.1.0-rc-01</bonita.connector.email.version>
         <bonita.connector.googlecalendar.version>6.1.0-rc-02</bonita.connector.googlecalendar.version>

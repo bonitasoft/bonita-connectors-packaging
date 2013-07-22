@@ -407,9 +407,9 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:bonitasoft/bonita-connector-packaging.git</developerConnection>
-        <connection>scm:git:git@github.com:bonitasoft/bonita-connector-packaging.git</connection>
-        <url>https://github.com/bonitasoft/bonita-connector-packaging</url>
+        <developerConnection>scm:git:git@github.com:bonitasoft/bonita-connectors-packaging.git</developerConnection>
+        <connection>scm:git:git@github.com:bonitasoft/bonita-connectors-packaging.git</connection>
+        <url>https://github.com/bonitasoft/bonita-connectors-packaging</url>
     </scm>
 
 </project>

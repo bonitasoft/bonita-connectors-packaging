@@ -13,8 +13,9 @@
         <bonita.connector.email.version>6.1.0-rc-01</bonita.connector.email.version>
         <bonita.connector.googlecalendar.version>6.1.0-rc-02</bonita.connector.googlecalendar.version>
         <bonita.connector.jasper.version>6.1.0-rc-03</bonita.connector.jasper.version>
+        <bonita.connector.ldap.version>6.1.0-rc-01</bonita.connector.ldap.version>
         <bonita.connector.salesforce.version>6.1.0-rc-03</bonita.connector.salesforce.version>
-        <bonita.connector.sap.version>6.1.0-rc-02</bonita.connector.sap.version>
+        <bonita.connector.sap.version>6.1.0-rc-03</bonita.connector.sap.version>
         <bonita.connector.scripting.version>6.1.0-rc-02</bonita.connector.scripting.version>
         <bonita.connector.sugarcrm.version>6.1.0-rc-02</bonita.connector.sugarcrm.version>
         <bonita.connector.talend.version>6.1.0-rc-02</bonita.connector.talend.version>
@@ -443,6 +444,13 @@
             <groupId>${project.groupId}</groupId>
             <artifactId>bonita-connector-twitter-update-impl</artifactId>
             <version>${bonita.connector.twitter.version}</version>
+            <type>zip</type>
+            <classifier>connector</classifier>
+        </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>bonita-connector-ldap-impl</artifactId>
+            <version>${bonita.connector.ldap.version}</version>
             <type>zip</type>
             <classifier>connector</classifier>
         </dependency>

@@ -10,7 +10,7 @@
     <artifactId>bonita-connectors-tomcat-integration-tests</artifactId>
 
     <properties>
-        <bonita.engine.version>6.1.0-rc-01</bonita.engine.version>
+        <bonita.engine.version>6.1.0-SNAPSHOT</bonita.engine.version>
     </properties>
 
     <dependencies>

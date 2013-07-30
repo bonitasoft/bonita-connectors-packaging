@@ -8,18 +8,18 @@
     <packaging>pom</packaging>
     <properties>
         <bonita.connector.alfresco.version>6.1.0-rc-04</bonita.connector.alfresco.version>
-        <bonita.connector.database.version>6.1.0-rc-05</bonita.connector.database.version>
+        <bonita.connector.database.version>6.1.0-rc-04</bonita.connector.database.version>
         <bonita.connector.cmis.version>6.1.0-rc-02</bonita.connector.cmis.version>
         <bonita.connector.email.version>6.1.0-rc-05</bonita.connector.email.version>
         <bonita.connector.googlecalendar.version>6.1.0-rc-02</bonita.connector.googlecalendar.version>
         <bonita.connector.jasper.version>6.1.0-rc-03</bonita.connector.jasper.version>
         <bonita.connector.ldap.version>6.1.0-rc-01</bonita.connector.ldap.version>
         <bonita.connector.salesforce.version>6.1.0-rc-03</bonita.connector.salesforce.version>
-        <bonita.connector.sap.version>6.1.0-rc-04</bonita.connector.sap.version>
+        <bonita.connector.sap.version>6.1.0-rc-03</bonita.connector.sap.version>
         <bonita.connector.scripting.version>6.1.0-rc-02</bonita.connector.scripting.version>
         <bonita.connector.sugarcrm.version>6.1.0-rc-02</bonita.connector.sugarcrm.version>
         <bonita.connector.talend.version>6.1.0-rc-02</bonita.connector.talend.version>
-        <bonita.connector.webservice.version>6.1.0-rc-02</bonita.connector.webservice.version>
+        <bonita.connector.webservice.version>6.1.0-rc-01</bonita.connector.webservice.version>
         <bonita.connector.twitter.version>6.1.0-rc-13</bonita.connector.twitter.version>
     </properties>
 

@@ -11,7 +11,7 @@
         <bonita.connector.database.version>6.0.1</bonita.connector.database.version>
         <bonita.connector.email.version>6.0.2.1</bonita.connector.email.version>
         <bonita.connector.googlecalendar.version>6.0.1</bonita.connector.googlecalendar.version>
-        <bonita.connector.jasper.version>6.0.1</bonita.connector.jasper.version>
+        <bonita.connector.jasper.version>6.0.2</bonita.connector.jasper.version>
         <bonita.connector.salesforce.version>6.0.1</bonita.connector.salesforce.version>
         <bonita.connector.sap.version>6.0.2-rc-01</bonita.connector.sap.version>
         <bonita.connector.scripting.version>6.0.2-rc-01</bonita.connector.scripting.version>

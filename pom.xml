@@ -4,7 +4,7 @@
     <groupId>org.bonitasoft.connectors</groupId>
     <artifactId>bonita-connectors-package</artifactId>
     <packaging>pom</packaging>
-    <version>6.0.3</version>
+    <version>6.0.4-SNAPSHOT</version>
 
     <properties>
         <bonita.connector.alfresco.version>6.0.1</bonita.connector.alfresco.version>
@@ -410,7 +410,7 @@
         <developerConnection>scm:git:git@github.com:bonitasoft/bonita-connectors-packaging.git</developerConnection>
         <connection>scm:git:git@github.com:bonitasoft/bonita-connectors-packaging.git</connection>
         <url>https://github.com/bonitasoft/bonita-connectors-packaging</url>
-      <tag>bonita-connectors-package-6.0.3</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>

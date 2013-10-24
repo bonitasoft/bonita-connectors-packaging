@@ -473,6 +473,6 @@
     <parent>
     	<groupId>org.bonitasoft.connectors</groupId>
     	<artifactId>bonita-connectors</artifactId>
-    	<version>6.1.0-SNAPSHOT</version>
+    	<version>6.1.0</version>
     </parent>
 </project>

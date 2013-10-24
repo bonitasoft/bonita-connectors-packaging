@@ -8,7 +8,7 @@
 	</parent>
     
     <artifactId>bonita-connectors-package</artifactId>
-	<version>6.1.0</version>
+	<version>6.2.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <dependencies>
@@ -473,6 +473,6 @@
         <developerConnection>scm:git:git@github.com:bonitasoft/bonita-connectors-packaging.git</developerConnection>
         <connection>scm:git:git@github.com:bonitasoft/bonita-connectors-packaging.git</connection>
         <url>https://github.com/bonitasoft/bonita-connectors-packaging</url>
-        <tag>bonita-connectors-package-6.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 </project>

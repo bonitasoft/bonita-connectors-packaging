@@ -57,14 +57,7 @@
             <classifier>connector</classifier>
         </dependency>
         <dependency>
-            <artifactId>bonita-connector-database-mssqlserver2008-impl</artifactId>
-            <groupId>${project.groupId}</groupId>
-            <version>${bonita.connector.database.version}</version>
-            <type>zip</type>
-            <classifier>connector</classifier>
-        </dependency>
-        <dependency>
-            <artifactId>bonita-connector-database-mssqlserver2012-impl</artifactId>
+            <artifactId>bonita-connector-database-mssqlserver-impl</artifactId>
             <groupId>${project.groupId}</groupId>
             <version>${bonita.connector.database.version}</version>
             <type>zip</type>
